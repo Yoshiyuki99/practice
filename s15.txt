@@ -1,8 +1,7 @@
-
 A apple
-B Birdch
+B Birdch22
+
 C complete
->>>>>>> fbf6f446271854cc0a7714c60947899743446b20
 D
 
 Ryu
